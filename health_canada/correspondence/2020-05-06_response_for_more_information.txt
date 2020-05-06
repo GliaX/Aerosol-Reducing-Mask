@@ -1,0 +1,138 @@
+Hello Ms. Ché and Mr. Nguyen,
+
+Thank you for your email and questions. All figures referred to below
+can be found at https://cloud.emlondon.ca/s/oiPjpx6kogXR66P .
+
+1. I have inserted the correct address for Dr. Gucciardo. glia.com is a
+different entity.
+
+2. Regarding biocompatibility, the item that is 3D printed is the
+adapter between the mask and the non-invasive ventilation (aka Adapter).
+The material we are utilizing is Acrylonitrile Butadiene Styrene,
+commonly known as ABS. This is the material that is used in Lego, for
+example.
+
+We reviewed ISO 10993-1. This ISO applies to the 3M AV2000 mask we use,
+which is in wide and common use. Any information about this mask will be
+provided to you upon request. ISO 10993-1 does not appear to directly
+apply to the 3M gasket and 3D printed adapter.
+
+Section 3.11 puts our adapter (and overall device) within the scope of
+10993-1 by considering it a medical device with direct (3M AV2000 mask)
+and indirect contact (Adapter and Gasket).
+
+However, 5.1 redirects us to 18562 (1-4) for gas pathway devices, which
+applies to the 3D printed adapter and 3M gasket.
+
+Of note, we reviewed ISOs 10993-4 and 10993-5 and found that they do not
+apply to this device. We also reviewed ISOs 18190, 80601-2 (79, 80), and
+17510 and have incorporated them into the development of this device.
+
+As per Figure 1 of ISO 18562-1, our risk assessment identified two areas
+of concern:
+
+2.a. The printing process and subsequent i) biocontamination and ii)
+porosity of the device
+
+2.a.i) Regarding biocontamination, we concluded that data exist and
+reviewed the whitepaper entitled "Sterilization of FDM-Manufactured
+Parts" [1] by Stratasys, the world's foremost manufacturer of 3D
+printers and 3D printed medical equipment. This study concluded that
+"based on the results obtained in this paper, it
+ appears that each of the four methods tested are
+ successful in sterilizing these materials." Concerns were raised with
+one of the methods (autoclave heating) regarding ABS's integrity.
+However, the other three methods achieved full sterilization.
+
+2.a.ii) Regarding porosity, we concluded that data do not exist. We
+created a test rig in the laboratory and tested the device for porosity
+using various print settings. Figures 1a-c (see link above) show photos
+of the test set up in which pressurized air far exceeding operating
+standards was put through the device to test porosity. No porosity was
+found in the adapter at pressures up to and far exceeding operating
+pressures.
+
+2.b. The ABS being used as a material.
+
+
+ABS is a commonly used material in all parts of food, drug, and medical
+device industry that is well-accepted as being biocompatible. Our
+evaluation plan concluded that data exist for its biocompatibility. We
+reviewed several resources [2-6] and the MSDS[7], and concluded that ABS
+is a safe, biocompatible and inert material for gas exchange. It is
+vulnerable to solvents such as acetone which are not expected to be used
+in a hospital environment. It is otherwise inert. It is compatible with
+common cleaning methodologies in hospitals such as gluteraldehyde, vapor
+phase hydrogen peroxide and 1-minute bleach bath.
+
+3. Regarding the patient's ability to sleep and communicate, clearly
+these are impeded by the use of any mask. However, this mask should not
+impede the ability of patients to sleep or communicate more than other
+masks. We have already begun clinical trials on this mask, and patients
+are comprehensible while wearing the mask and are easy to assess for
+clinical status and concern.
+
+Regarding the patient's ability to remove the mask without assistance,
+the device contains a release strap that will quickly release the mask
+from a patient's face. The colour of this strap is bright red. I have
+attached video of the release mechanism as Figure 2 (see link above).
+Please note that in this engineering demonstration, the strap is black
+in colour whereas on the product it is bright red.
+
+4. Regarding the rebreathing of carbon dioxide, the device has two
+configurations: single limb and dual limb ventilation. In a single limb
+setup, the device must be attached to an exhalation port and an
+anti-asphyxiation valve within the circuit. The combined exhalation port
+anti-asphyxiation valve being used is the "ResMed 24991 Leak Valve". An
+example single limb setup would be with a ResMed Stellar noninvasive
+ventilator machine.
+
+In a dual limb setup, the second limb provides the exhaust and
+anti-asphyxiation capability routinely and without any additional valves
+or ports. An example dual limb setup would be the Hamilton Medical C1.
+
+
+5. Regarding the expired breath following filtration by a viral filter,
+it is expired to the room, as it is considered decontaminated by the
+viral filter. This is the routine method used by all non-invasive
+ventilators.
+
+I hope this answers all of your questions. Please do not hesitate to
+raise any further questions.
+
+Thank you,
+
+Tarek : )
+
+----
+Tarek Loubani, BSc(Hon), MD, CCFP (EM)
+Consultant, Department of Emergency medicine
+London Health Sciences Centre
+
+Associate Professor, Department of Medicine
+Faculty of Medicine and Dentistry
+University of Western Ontario
+
+Medical Director
+Glia
+
+
+References:
+
+1.
+http://www.stratasys.com/-/media/files/white-papers-new/wp_fdm_sterilization_en_0915-web.pdf
+
+2.
+https://www.hcltech.com/sites/default/files/an_overview_of_the_plastic_material_selection_process_for_medical_devices.pdf
+
+3.
+https://omnexus.specialchem.com/selection-guide/acrylonitrile-butadiene-styrene-abs-plastic
+
+4. https://www.ensingerplastics.com/en-us/shapes/biocompatible-medical-grade
+
+5. https://amfg.ai/2018/06/29/abs-plastic-3d-printing-all-you-need-to-know/
+
+6.
+https://3dprintingcenter.net/2020/03/29/spectrum-filaments-introduces-medical-materials-to-the-offer-including-biocompatible-abs/
+
+7. https://www.tapplastics.com/uploads/pdf/MSDS%20ABS.pdf
