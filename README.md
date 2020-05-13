@@ -14,8 +14,9 @@ its production to prevent any infectious transmission from the patient to health
 care workers and other patients.
 
 ## Bill Of Materials
- *
- * 3D printed adapter
+ * [3M Scott AV-2000 Facepiece](https://www.3mscott.com/products/av-2000-facepiece/)
+ * 3M Gasket seal
+ * 3D printed adapter (ABS)
 
 ## Adaptor 3D Printing Specifications and Parameters
 
