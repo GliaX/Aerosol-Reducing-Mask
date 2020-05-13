@@ -36,6 +36,7 @@ Additional Slicer Settings:
 
 
 ![Figure 1: Orientation of Adapter v1.0 on Print Bed](media/figure1.png)
+
 *Figure 1: Orientation of Adapter v1.0 on Print Bed*
 
 * NOTE: ABS is prone to thermoplastic contraction (shrinkage). If the slicing
@@ -57,6 +58,7 @@ Ensure the following:
 
 
 ![Figure 2: Critical part dimensions](media/figure2.png)
+
 *Figure 2: Critical part dimensions*
 
 # Print Traceability Guidelines
