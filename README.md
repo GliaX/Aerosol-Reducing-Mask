@@ -21,13 +21,13 @@ care workers and other patients.
 ## Adaptor 3D Printing Specifications and Parameters
 
  * Adapter Version: v1.0
- * Filament Material: ABS*
- * Printer Nozzle:			0.4mm recommended
- * Infill Percentage & Pattern: 	100% Infill, Rectilinear infill
+ * Filament Material: ABS
+ * Printer Nozzle: 0.4mm
+ * Infill Percentage & Pattern: 100% Infill, Rectilinear infill
  * Wall thickness: 2.0mm (5 wall/perimeters with 0.4mm nozzle)
  * Top and bottom thickness: 2.0mm (10 top and bottom layers at 0.2mm layer height)
  * Supports: Required
- * Raft:	Not preferred; Printing on the bed creates a smoother finish
+ * Raft: Not preferred; Printing on the bed creates a smoother finish
  * Orientation:	Mask face on the bed, Outer face upwards (See Figure 1)
 
 Additional Slicer Settings:
