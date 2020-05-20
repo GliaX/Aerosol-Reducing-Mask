@@ -5,10 +5,10 @@ include <submersion_test_rig_common.scad>;
 postwidth = collet_diameter+8;
 postlength = 40;
 basethickness = 4;
-
+postheight = 100;
 module post() {
     union() {
-        cylinder(30, collet_diameter / 2, collet_diameter / 2, $fn=360);
+        cylinder(postheight, collet_diameter / 2, collet_diameter / 2, $fn=360);
         translate([-postlength/2, -(postwidth/2), 0]) 
             cube([postlength, postwidth, basethickness]);
     }
