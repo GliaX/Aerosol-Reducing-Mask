@@ -1,4 +1,4 @@
-vent_diameter = 127; // ID is this
+vent_diameter = 130; // ID is this
 
 hole_side_length = 5;
 spacing = 1;
