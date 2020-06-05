@@ -15,7 +15,7 @@
    viewBox="0 0 797.24426 450.00002"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="device_label.svg"
    inkscape:export-filename="/home/orangey/workspace/noninvasive-vent/manual/device_label.png"
    inkscape:export-xdpi="300"
@@ -206,13 +206,13 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="308.50482"
-     inkscape:cy="232.53217"
+     inkscape:cx="471.02267"
+     inkscape:cy="173.1352"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-width="1368"
+     inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -891,5 +891,7 @@
            x="27.577164"
            y="258.67557" /></flowRegion><flowPara
          id="flowPara346"
-         style="font-weight:bold">FOR PROFESSIONAL MEDICAL USE</flowPara></flowRoot>  </g>
+         style="font-weight:bold">FOR PROFESSIONAL MEDICAL USE</flowPara><flowPara
+         style="font-weight:bold"
+         id="flowPara3883">STORE AT 40°C-40°C in cool, dry environment</flowPara></flowRoot>  </g>
 </svg>
