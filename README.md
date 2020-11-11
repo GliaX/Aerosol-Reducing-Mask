@@ -78,14 +78,14 @@ For each batch printed, the following items must be logged:
  * Loop strap back approximately 6 cm.
  * Sew firmly using 3 runs across the area to sew.
  
-![Figure 3: Front view of helmet](media/figure3.jpg)
+![Figure 3: Front view of helmet](media/figure3.jpg | width=400)
  
 *Figure 3: Front view of helmet*
  
-![Figure 4: Strap inserted into buckle](media/figure4.jpg)
+![Figure 4: Strap inserted into buckle](media/figure4.jpg | width=400)
 
 *Figure 4: Strap inserted into buckle*
 
-![Figure 5: Completed sewn strap](media/figure5.jpg)
+![Figure 5: Completed sewn strap](media/figure5.jpg | width=400)
  
 *Figure 5: Completed sewn strap*
