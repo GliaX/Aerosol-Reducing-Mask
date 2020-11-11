@@ -17,6 +17,7 @@ care workers and other patients.
  * [3M Scott AV-2000 Facepiece](https://www.3mscott.com/products/av-2000-facepiece/)
  * 3M Gasket seal
  * 3D printed adapter (ABS)
+ * Safety release strap, 25mm width x 35cm length[[MEC](https://www.mec.ca/en/product/5020-829/1%22%2825mm%29-Nylon-Tubular-Climbing-Webbing)]
 
 ## Adaptor 3D Printing Specifications and Parameters
 
@@ -28,7 +29,7 @@ care workers and other patients.
  * Top and bottom thickness: 2.0mm (5 top and bottom layers at 0.2mm layer height)
  * Supports: Required
  * Raft: Not preferred; Printing on the bed creates a smoother finish
- * Orientation:	Mask face on the bed, Outer face upwards (See Figure 1)
+ * Orientation: Mask face on the bed, Outer face upwards (See Figure 1)
 
 Additional Slicer Settings:
  * Use ‘random start points for all perimeters’ (Cura)
@@ -70,3 +71,14 @@ For each batch printed, the following items must be logged:
  * Colour of material
  * Date of print
  * Machines used for print
+ 
+# Attaching safety release
+ 
+ * Insert strap into bottom right buckle of helmet - Patient should be able to pull strap with right hand.
+ * Loop strap back approximately 6 cm.
+ * Sew firmly using 3 runs across the area to sew.
+ 
+ ![Figure 3: Front view of helmet](media/figure3.jpg)
+ ![Figure 4: Strap inserted into buckle](media/figure4.jpg)
+ ![Figure 5: Completed sewn strap](media/figure5.jpg)
+ 
