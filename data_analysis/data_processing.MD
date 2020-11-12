@@ -1,6 +1,6 @@
-Get data from patient
-
-Start time is found in 
+* Download and compile [EDF2ASCII](https://www.teuniz.net/edf2ascii/)
+* Get data from patient
+* Start time is found in 
 
 
 
