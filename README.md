@@ -1,4 +1,4 @@
-# Aerosol minimizing mask for CPAP and BiPAP
+# Aerosol Reducing Mask for Non-Invasive Ventilation
 
 ## Purpose
 The Minimizing Aerosolization In Non-invasive (MAIN) Ventilation COVID-19 mask
