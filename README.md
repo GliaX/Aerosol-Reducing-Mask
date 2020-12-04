@@ -1,3 +1,15 @@
+November 27, 2020
+
+# Suspension of Marketing and Sales of the Aerosol-Reducing-Mask (ARM)
+
+Effectively November 27 (2020), the ARM team is suspending any sales or distribution of the current version of the Aerosol-Reducing-Mask.
+
+Review of the clinical trial data that became available to the ARM team on November 26  shows that the ARM device is not as effective at reducing leak and aerosolization as earlier data had suggested. The complete data and analysis report will be posted on the public project repository at https://github.com/GliaX/Aerosol-Reducing-Mask.
+
+The clinical trial was not a requirement for regulatory approval from Health Canada and the device is still approved under an Interim Order. However in light of the the data suggesting that while safe, the device fails to meets its primary indication (protection of health care providers and other patients from aerosols), we are withholding all sales and deployments of the device.
+
+We are currently undertaking a detailed analysis of the device and causes of failure in order to create a road map for required modifications for a subsequent version. Such modifications along with the necessary confirmatory testing and regulatory approval will likely not be completed in sufficient time to meet the urgent needs of the current pandemic. All data collected for the ARM device is publicly available at the project repository and we will continue to provide open access to all data, analysis reports and other project documents going forward. 
+
 # Aerosol Reducing Mask for Non-Invasive Ventilation
 
 ## Purpose
