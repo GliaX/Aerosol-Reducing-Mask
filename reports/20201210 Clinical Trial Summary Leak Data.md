@@ -23,18 +23,16 @@ Additional collected data included: demographics (age, sex); morphologic paramet
 
 </small>
 
-### Results
+## Results
 The study was stopped after randomization of 16 patient (6 intervention, 10 control) due to results suggesting failure of the ARM to reduce leaks compared to the control device (Fig T1 & T2).
 
 There were no major adverse events during the trial related to the device. 
 
-![T1a. Mask Leak - Control 1](https://i.imgur.com/JPOkpdZ.png)
+![T1. Mask Leak - Control 1](https://i.imgur.com/PwNWAIe.png =600x)
 
-![T1b. Mask Leak - Control 2](https://i.imgur.com/tS44wHX.png)
+***Fig T1**. Distribution of mask leak flows for each patient with the control mask (N=10). 7/10 patients had leak of 0.5 L/min or less for at least half of the treatment duration*
 
-***Fig T1**. Distribution of mask leak flows for each patient with the control mask (N=10)*.
+![T2. Mask Leak - ARM](https://i.imgur.com/LMyFhO7.png =600x)
 
+***Fig T2**. Distribution of mask leak flows or each patient with the ARM (N=6). Only 2 of 6 patients had leaks of 0.5 L/min or less for more than half of the treatment duration*.
 
-![T2. Mask Leak - ARM](https://i.imgur.com/LMyFhO7.png)
-
-***Fig T2**. Distribution of mask leak flows or each patient with the ARM (N=6)*.
