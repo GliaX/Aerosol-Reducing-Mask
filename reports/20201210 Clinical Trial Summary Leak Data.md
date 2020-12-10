@@ -29,9 +29,12 @@ The study was stopped after randomization of 16 patient (6 intervention, 10 cont
 There were no major adverse events during the trial related to the device. 
 
 ![T1a. Mask Leak - Control 1](https://i.imgur.com/JPOkpdZ.png)
+
 ![T1b. Mask Leak - Control 2](https://i.imgur.com/tS44wHX.png)
 
 ***Fig T1**. Distribution of mask leak flows for each patient with the control mask (N=10)*.
 
+
 ![T2. Mask Leak - ARM](https://i.imgur.com/LMyFhO7.png)
+
 ***Fig T2**. Distribution of mask leak flows or each patient with the ARM (N=6)*.
