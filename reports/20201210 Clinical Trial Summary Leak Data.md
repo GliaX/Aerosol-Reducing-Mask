@@ -30,6 +30,7 @@ There were no major adverse events during the trial related to the device.
 
 ![T1a. Mask Leak - Control 1](https://i.imgur.com/JPOkpdZ.png)
 ![T1b. Mask Leak - Control 2](https://i.imgur.com/tS44wHX.png)
+
 ***Fig T1**. Distribution of mask leak flows for each patient with the control mask (N=10)*.
 
 ![T2. Mask Leak - ARM](https://i.imgur.com/LMyFhO7.png)
