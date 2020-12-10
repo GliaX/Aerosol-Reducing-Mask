@@ -4,7 +4,7 @@ November 27, 2020
 
 Effective November 27 (2020), the ARM team is suspending any sales or distribution of the current version of the ARM.
 
-Review of clinical trial data that became available to the team on November 26  shows that the ARM device is not as effective at reducing leak and aerosolization as earlier data had suggested. The complete data and analysis report will be posted on the public project repository at https://github.com/GliaX/Aerosol-Reducing-Mask.
+Review of clinical trial data that became available to the team on November 26  shows that the ARM device is not as effective at reducing leak and aerosolization as earlier data had suggested. The [preliminary data and analysis report](https://github.com/GliaX/Aerosol-Reducing-Mask/blob/master/reports/20201210%20Clinical%20Trial%20Summary%20Leak%20Data.md) is posted to the repository.
 
 The clinical trial was not a requirement for regulatory approval from Health Canada and the device is still approved under an Interim Order. However the trial data suggests that while safe and effective at providing respiratory support, the device fails to meets its primary indication (protection of health care providers and other patients from infectious aerosols), we are withholding all sales and deployments of the device.
 
