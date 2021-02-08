@@ -1,0 +1,6 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";"POPULARITY";
+"2";"";"MA03-2";"MA03-2";"LIMIT_1_2, LIMIT_3_4";"PIN HEADER";"";"";"unknown";"unknown";"15";
+"3";"";"MA04-1";"MA04-1";"STEPPER_1, STEPPER_2, STEPPER_3";"PIN HEADER";"";"";"unknown";"unknown";"41";
+"3";"1182-A4988";"1182-A4988";"A4988";"IC1, IC2, IC3";"A4988 Stepper Motor Driver Carrier";"";"";"";"";"";
+"1";"ARDUINO-NANO-3.0";"ARDUINO-NANO-3.0";"ARDUINO-NANO-3.0";"M1";"Arduino Nano 3.0";"";"";"";"";"";
+"1";"SPRING_TB_RT2";"SPRING_TB_RT2";"SPRING_TB_RT2";"U$1";"Spring Loaded Terminal Block";"";"";"";"";"";
